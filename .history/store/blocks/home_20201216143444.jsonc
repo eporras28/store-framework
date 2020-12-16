@@ -28,12 +28,12 @@
   "info-card#button-right": {
     "props": {
       "isFullModeStyle": false,
-      "textPosition": "left",
-      "imageUrl": "https://appliancetheme.vteximg.com.br/arquivos/cozinha-cinza-min.png",
-      "headline": "Shining chrome",
+      "textPosition": "right",
+      "imageUrl": "https://appliancetheme.vteximg.com.br/arquivos/cozinha-rosa-min.png",
+      "headline": "Vintage EDU",
       "subhead": "Give your kitchen a boho style adding vintage apparels.<br>Available until January 2020.",
       "callToActionMode": "button",
-      "callToActionText": "Go to Collection",
+      "callToActionText": "Explore",
       "callToActionUrl": "/sale/d",
       "textAlignment": "center"
     }
